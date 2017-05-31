@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/bookchan/workspace/database_course_project/xkxt/xkxt/verification'
+let g:netrw_dirhist_2='/home/bookchan/workspace/thesis/mycode/crawl/SinaSpider/Sina_spider1/Sina_spider1'
+let g:netrw_dirhist_3='/home/bookchan/workspace/thesis/data/chinese/Sentiment_dict/degree_dict'
+let g:netrw_dirhist_4='/home/bookchan/workspace/thesis/others/mem_absa/data'
+let g:netrw_dirhist_5='/home/bookchan/workspace/thesis/mycode/demo/web/templates'
